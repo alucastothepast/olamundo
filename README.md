@@ -1,2 +1,4 @@
-# olamundo
- Primeiro repositório do curso
+# Olá, mundo.
+ Primeiro repositório do curso.
+
+ Repositório criado durante a aula.
